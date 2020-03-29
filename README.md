@@ -1,4 +1,10 @@
-# self-variable-python
+# self-variable-python    
+
+## See the below Video
+
+https://drive.google.com/file/d/1f-4jCLd48k26UcyNlUCjrsIdJZX3vi4Q/view?usp=sharing
+
+
 ## Why Self in Python
 Self is a variable which is the first argument of method which is created inside the class in python. It is a temporary placeholder of objects of the class and is very useful when you are working with different objects inside the same class and accessing the same methods of the class. In this code I have created three objects of the class such as Apple, Gauva and Mango. Please look at the below screenshot to understand the case in more precise way. **This refers to same class_method**. *Self helped in distinguishing between each of them.*
 
